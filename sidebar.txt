@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ako:home|Door43 (ako)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ako|d43-ako repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ako/archive/master.zip|d43-ako.zip]]
+
+**Recent Changes**
+{{changes>ns = ako}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ako|Ethnologue data]]
+
